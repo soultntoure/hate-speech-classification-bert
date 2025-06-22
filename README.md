@@ -63,7 +63,7 @@ The analysis compares the performance of four powerful GPU-accelerated models. T
 The project dashboards provide a detailed visual breakdown of these results, including confusion matrices and efficiency scores (F1-score per second of training).
 
 
-_Dashboard showing training time and efficiency analysis._
+![Efficiency Comparison](Images/Training_Time_and_Efficiency_Analysis.png)
 
 ---
 
