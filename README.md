@@ -60,11 +60,11 @@ The analysis compares the performance of four powerful GPU-accelerated models. T
 -   **Highest Precision**: **0.828** (PyTorch Deep Network)
 -   **Fastest Training Time**: **XGBoost (GPU)** at just 12.7 seconds.
 
-The project dashboards provide a detailed visual breakdown of these results, including confusion matrices and efficiency scores (F1-score per second of training).
+The project dashboards provide a detailed visual breakdown of these results, including efficiency scores (F1-score per second of training) and time took for every model.
 
 
 ![Efficiency Comparison](Images/Training_Time_and_Efficiency_Analysis.png)
-
+![Model Performance Metrics]
 ---
 
 ## ⚙️ Setup and Installation
