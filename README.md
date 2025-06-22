@@ -5,7 +5,7 @@
 This repository contains the code and analysis for the "Violence Detection in Text" project, originally completed for a Social Media Computing course. The project implements a full machine learning pipeline to classify text as violent or non-violent, leveraging modern NLP techniques and GPU acceleration for efficient processing.
 
 
-![Metrics](Images\Confusion Matrices and Classification Analysis.png)
+(Images/Confusion Matrices and Classification Analysis.png)
 
 ---
 
