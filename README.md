@@ -64,7 +64,7 @@ The project dashboards provide a detailed visual breakdown of these results, inc
 
 
 ![Efficiency Comparison](Images/Training_Time_and_Efficiency_Analysis.png)
-![Model Performance Metrics]
+![Model Performance Metrics](Images/Model_Performance_Metrics.png)
 ---
 
 ## ⚙️ Setup and Installation
