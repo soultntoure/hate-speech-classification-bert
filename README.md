@@ -43,7 +43,7 @@ The project follows a structured methodology to ensure robust and reproducible r
 
 1.  **Environment & GPU Setup**: Verifies the computational environment and configures GPU usage for accelerated processing.
 2.  **Data Loading & EDA**: Loads the `HateSpeechDatasetBalanced.csv` and performs a comprehensive exploratory data analysis to understand its structure, quality, and statistical properties.
-![Dataset Analysis](Images/Dataset_analysis.png)
+![Dataset Analysis](Images/Dataset_anlaysis.png)
 3.  **Data Preprocessing**: Cleans and standardizes the text data by converting to lowercase, removing URLs and special characters, and lemmatizing words.
 4.  **Feature Engineering with DistilBERT**: Generates 768-dimensional contextual embeddings for the training and test sets using a pre-trained DistilBERT model.
 5.  **GPU-Accelerated Model Training**: Trains and evaluates multiple classifiers on the BERT embeddings, including XGBoost, LightGBM, and two custom-built PyTorch neural networks.
